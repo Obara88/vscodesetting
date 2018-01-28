@@ -1,0 +1,30 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    //"window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.autoClosingBrackets": false,
+    "workbench.sideBar.location": "left",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "default",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "typescript.locale": "en",
+    "editor.tabCompletion": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false,
+    
+    "explorer.openEditors.visible": 0,
+    
+    
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.ignoreSelection": true,
+    "explorer.confirmDelete": false,
+    "editor.showFoldingControls": "always",
+}
