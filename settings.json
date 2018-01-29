@@ -3,7 +3,7 @@
     "workbench.colorTheme": "Visual Studio Light",
     //"window.zoomLevel": 0,
     "workbench.iconTheme": "material-icon-theme",
-    "editor.autoClosingBrackets": false,
+    "editor.autoClosingBrackets": true,
     "workbench.sideBar.location": "left",
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
@@ -27,4 +27,5 @@
     "code-runner.ignoreSelection": true,
     "explorer.confirmDelete": false,
     "editor.showFoldingControls": "always",
+    "go.useCodeSnippetsOnFunctionSuggest": true,
 }
