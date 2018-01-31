@@ -1,2 +1,2 @@
 # vscodesetting
-minhas config vs code
+My vs code Settings
