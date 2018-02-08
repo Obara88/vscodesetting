@@ -27,6 +27,6 @@
     "code-runner.ignoreSelection": true,
     "explorer.confirmDelete": false,
     "editor.showFoldingControls": "always",
-    "go.useCodeSnippetsOnFunctionSuggest": true,
+    
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
 }
